@@ -9,5 +9,4 @@ public class WikimediaReaderApplication {
 	public static void main(String[] args) {
 		SpringApplication.run(WikimediaReaderApplication.class, args);
 	}
-
 }
